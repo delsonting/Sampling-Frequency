@@ -12,8 +12,8 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-homepage: "https://www.example.com"
-documentation: "https://www.example.com/documentation"
+homepage: "https://github.com/delsonting/Sampling-Frequency"
+documentation: "https://github.com/delsonting/Sampling-Frequency"
 versions:
-  - sha: 5f02a788b90ae804f86b04aa24af8937e567874a
+  - sha: aabab0dcd629896fdaf3f519d0cec4de8a3844d6
     changeNotes: Initial Version
